@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "184976091203",
+    "firebase_url": "https://softwarebox-1205.firebaseio.com",
+    "project_id": "softwarebox-1205",
+    "storage_bucket": "softwarebox-1205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184976091203:android:4a659e567b02391d",
+        "android_client_info": {
+          "package_name": "avery.com.mobilesurveyoffers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184976091203-s2jnmlad43btrqk7cjsmugfcpscga2u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5QmwvirP4ImALv-snWqJHaEBdTCAkME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184976091203:android:db1f09c41560afc0",
+        "android_client_info": {
+          "package_name": "com.socialize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184976091203-s2jnmlad43btrqk7cjsmugfcpscga2u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5QmwvirP4ImALv-snWqJHaEBdTCAkME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
